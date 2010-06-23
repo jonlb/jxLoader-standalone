@@ -1,0 +1,3 @@
+[submodule "includes/loader"]
+	path = includes/loader
+	url = git@github.com:jonlb/jxLoader.git
